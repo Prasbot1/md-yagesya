@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['6289666747744']
-global.premium = ['6289666747744']
-global.ownernomer = '6289666747744'
-global.ownername = '🐦Star Boy Prasz'
-global.botname = 'Kurobu'
-global.footer = '©PraszInc.'
+global.owner = ['6285712838946']
+global.premium = ['6285712838946']
+global.ownernomer = '6285712838946'
+global.ownername = '🐦Star Boy Arya'
+global.botname = 'Arya-Bot'
+global.footer = '©Arya'
 global.ig = 'https://github.com/Prasbot1'
 global.region = 'Blitar, South Garum, Bence'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
